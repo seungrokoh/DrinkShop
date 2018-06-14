@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/AndroidManifest.xml:17:1-22:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/davidoh/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/a6b65b8b3b9e5e78b7442af2355e5295/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/davidoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e4cc0846b04a6b3bd13d5370ef8daec3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/119bea970a4fccf95319e9e9618beb0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.szagurskii:patternedtextwatcher:0.6.0-SNAPSHOT] /home/davidoh/.gradle/caches/transforms-1/files-1.1/patternedtextwatcher-0.6.0-SNAPSHOT.aar/cb9d70db9f7e8d6ea109da426c03e55d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.d-max:spots-dialog:1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/spots-dialog-1.1.aar/8be5851e0a28404af41301a8ef8b5fd0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/38f1063244eb90f98ac041161e31dc2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/21b8efbdd4793200ea1f1c7db47ed47c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9a245f7413242590bc6f110204ba932a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6892e2f837037b594a6f561f53d5428e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cca71b708874cbdbdd877d00a6d4902/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d2e24f5ade00b45d8f8584274d3cb4d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5f9ca12a1c4e0a3be1e0c2ad45910d58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ccbfc0595bd22da08c10bc064bf77639/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0538fb0abca79c367e32b1283416888c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/11c5decebf3bea288a2de483ce7d816d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4e24185c9288cba7cfe1237ec6aa792a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2bfd0e61e64ebc5e3b6df1179427a839/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c94623fb6a9229e2148e2d852788f8c3/AndroidManifest.xml:17:1-22:12
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/davidoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e4cc0846b04a6b3bd13d5370ef8daec3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/davidoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e4cc0846b04a6b3bd13d5370ef8daec3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.d-max:spots-dialog:1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/spots-dialog-1.1.aar/8be5851e0a28404af41301a8ef8b5fd0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.d-max:spots-dialog:1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/spots-dialog-1.1.aar/8be5851e0a28404af41301a8ef8b5fd0/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:11:9-40
+activity#example.drinkshop.davidoh.MainActivity
+ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/davidoh/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/a6b65b8b3b9e5e78b7442af2355e5295/AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/davidoh/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/a6b65b8b3b9e5e78b7442af2355e5295/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/davidoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e4cc0846b04a6b3bd13d5370ef8daec3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/davidoh/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/e4cc0846b04a6b3bd13d5370ef8daec3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/119bea970a4fccf95319e9e9618beb0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/119bea970a4fccf95319e9e9618beb0a/AndroidManifest.xml:20:5-44
+MERGED from [com.szagurskii:patternedtextwatcher:0.6.0-SNAPSHOT] /home/davidoh/.gradle/caches/transforms-1/files-1.1/patternedtextwatcher-0.6.0-SNAPSHOT.aar/cb9d70db9f7e8d6ea109da426c03e55d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.szagurskii:patternedtextwatcher:0.6.0-SNAPSHOT] /home/davidoh/.gradle/caches/transforms-1/files-1.1/patternedtextwatcher-0.6.0-SNAPSHOT.aar/cb9d70db9f7e8d6ea109da426c03e55d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.d-max:spots-dialog:1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/spots-dialog-1.1.aar/8be5851e0a28404af41301a8ef8b5fd0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.d-max:spots-dialog:1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/spots-dialog-1.1.aar/8be5851e0a28404af41301a8ef8b5fd0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/38f1063244eb90f98ac041161e31dc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/38f1063244eb90f98ac041161e31dc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/21b8efbdd4793200ea1f1c7db47ed47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/21b8efbdd4793200ea1f1c7db47ed47c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9a245f7413242590bc6f110204ba932a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9a245f7413242590bc6f110204ba932a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6892e2f837037b594a6f561f53d5428e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6892e2f837037b594a6f561f53d5428e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cca71b708874cbdbdd877d00a6d4902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4cca71b708874cbdbdd877d00a6d4902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d2e24f5ade00b45d8f8584274d3cb4d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d2e24f5ade00b45d8f8584274d3cb4d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5f9ca12a1c4e0a3be1e0c2ad45910d58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5f9ca12a1c4e0a3be1e0c2ad45910d58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ccbfc0595bd22da08c10bc064bf77639/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ccbfc0595bd22da08c10bc064bf77639/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0538fb0abca79c367e32b1283416888c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0538fb0abca79c367e32b1283416888c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/11c5decebf3bea288a2de483ce7d816d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/11c5decebf3bea288a2de483ce7d816d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4e24185c9288cba7cfe1237ec6aa792a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4e24185c9288cba7cfe1237ec6aa792a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2bfd0e61e64ebc5e3b6df1179427a839/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/2bfd0e61e64ebc5e3b6df1179427a839/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c94623fb6a9229e2148e2d852788f8c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/davidoh/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c94623fb6a9229e2148e2d852788f8c3/AndroidManifest.xml:20:5-44
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		ADDED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
+		INJECTED from /AndroidProject/DrinkShop/app/src/main/AndroidManifest.xml
