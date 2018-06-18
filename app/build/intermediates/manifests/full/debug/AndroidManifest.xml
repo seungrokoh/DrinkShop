@@ -8,6 +8,8 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="27" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:debuggable="true"
@@ -15,6 +17,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="example.drinkshop.davidoh.MainActivity" >
             <intent-filter>
@@ -23,6 +26,63 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="com.facebook.accountkit.ApplicationName"
+            android:value="@string/app_name" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/FACEBOOK_APP_ID" />
+        <meta-data
+            android:name="com.facebook.accountkit.ClientToken"
+            android:value="@string/ACCOUNT_KIT_CLIENT_TOKEN" />
+
+        <activity
+            android:name="com.facebook.accountkit.ui.AccountKitActivity"
+            android:label="@string/com_accountkit_button_log_in"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.AccountKit"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.facebook.accountkit.ui.AccountKitEmailRedirectActivity"
+            android:exported="true"
+            android:noHistory="true" />
+        <!--
+             The initialization ContentProvider will call AccountKit.initialize automatically
+             with the application context. This config is merged in with the host app's manifest,
+             but there can only be one provider with the same authority activated at any given
+             point; so if the end user has two or more different apps that use AccountKit, only the
+             first one will be able to use the provider. To work around this problem, we use the
+             following placeholder in the authority to identify each host application as if it was
+             a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.accountkit.internal.AccountKitInitProvider"
+            android:authorities="example.drinkshop.davidoh.AccountKitInitialization"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+            Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>
