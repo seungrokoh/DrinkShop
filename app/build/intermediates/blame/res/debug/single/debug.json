@@ -5,7 +5,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_activity_layout.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_activity_layout.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_activity_layout.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
@@ -32,20 +32,20 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6892e2f837037b594a6f561f53d5428e/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_app_bar_home.xml.flat",
-        "source": "/AndroidProject/DrinkShop/app/src/main/res/layout/app_bar_home.xml"
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_app_bar_home.xml.flat",
+        "source": "/AndroidProject/DrinkShop/app/src/main/res/layout/app_bar_home.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -80,12 +80,12 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/res/drawable-hdpi-v4/design_ic_visibility_off.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_send.xml.flat",
-        "source": "/AndroidProject/DrinkShop/app/src/main/res/drawable-v21/ic_menu_send.xml"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_send.xml.flat",
+        "source": "/AndroidProject/DrinkShop/app/src/main/res/drawable-v21/ic_menu_send.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_abc_tooltip_enter.xml.flat",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxhdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxhdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -145,7 +145,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_email_login_bottom.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_email_login_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxhdpi-v4/com_accountkit_code_fb.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxhdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
@@ -185,15 +185,15 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_text.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_phone_login_text.xml"
-    },
-    {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_phone_login_text.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_design_bottom_sheet_dialog.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -205,7 +205,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_device.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxhdpi-v4/com_accountkit_device.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxhdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -213,7 +213,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_com_accountkit_progress_complete_check_anim.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/anim/com_accountkit_progress_complete_check_anim.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/anim/com_accountkit_progress_complete_check_anim.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -232,16 +232,16 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -265,7 +265,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_phone_login_bottom.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_phone_login_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -276,12 +276,12 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_design_text_input_password_icon.xml.flat",
@@ -296,28 +296,28 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi_met_ic_clear.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/a6b65b8b3b9e5e78b7442af2355e5295/res/drawable-hdpi/met_ic_clear.png"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi_met_ic_clear.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-2.1.4.aar/a6b65b8b3b9e5e78b7442af2355e5295/res/drawable-hdpi/met_ic_clear.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_drink_shop.jpg.flat",
         "source": "/AndroidProject/DrinkShop/app/src/main/res/drawable/drink_shop.jpg"
     },
     {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_confirmation_code_input.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_confirmation_code_input.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_confirmation_code_input.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
@@ -325,7 +325,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_resend_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_resend_bottom.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_resend_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -373,7 +373,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_com_accountkit_progress_complete_vector.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/com_accountkit_progress_complete_vector.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/com_accountkit_progress_complete_vector.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -389,11 +389,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxhdpi-v4/com_accountkit_get_call.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxhdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-mdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-mdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -409,7 +409,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_confirmation_code_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_confirmation_code_bottom.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_confirmation_code_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -445,7 +445,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_verify_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_email_verify_bottom.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_email_verify_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -457,7 +457,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-v21_com_accountkit_input_cursor.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-v21/com_accountkit_input_cursor.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-v21/com_accountkit_input_cursor.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
@@ -477,7 +477,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-hdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-hdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi_met_ic_clear.png.flat",
@@ -517,7 +517,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_device.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xhdpi-v4/com_accountkit_device.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xhdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -565,7 +565,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-hdpi-v4/com_accountkit_get_call.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-hdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -644,6 +644,10 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_indicator_corner_bg.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/ba7c8721929b87a0d2cfff5aea8fee89/res/drawable/indicator_corner_bg.xml"
+    },
+    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/layout/abc_popup_menu_header_item_layout.xml"
     },
@@ -662,6 +666,10 @@
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_render_type_default.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/ba7c8721929b87a0d2cfff5aea8fee89/res/layout/render_type_default.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -685,7 +693,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_phone_country_code_layout.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_phone_country_code_layout.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_phone_country_code_layout.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
@@ -693,11 +701,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-mdpi-v4/com_accountkit_check_sms.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-mdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xhdpi-v4/com_accountkit_check_sms.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xhdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
@@ -725,7 +733,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_error_bottom.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_error_bottom.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_error_bottom.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -749,7 +757,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_phone_login_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_phone_login_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/color-v21_abc_btn_colored_borderless_text_material.xml.flat",
@@ -765,7 +773,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xhdpi-v4/com_accountkit_code_fb.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xhdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -805,7 +813,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_error_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_error_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_error_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -929,7 +937,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-mdpi-v4/com_accountkit_code_fb.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-mdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -969,7 +977,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_confirmation_code_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_confirmation_code_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_confirmation_code_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_met_ic_clear.png.flat",
@@ -993,7 +1001,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxxhdpi-v4/com_accountkit_code_fb.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxxhdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1049,7 +1057,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_top.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_email_login_top.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_email_login_top.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
@@ -1069,7 +1077,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxxhdpi-v4/com_accountkit_check_sms.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxxhdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -1085,11 +1093,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_sent_code_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_sent_code_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_sent_code_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_com_accountkit_error.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/com_accountkit_error.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/com_accountkit_error.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -1117,15 +1125,19 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_confirmation_code_top.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_confirmation_code_top.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_confirmation_code_top.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_render_type_text.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/ba7c8721929b87a0d2cfff5aea8fee89/res/layout/render_type_text.xml"
+    },
+    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_phone_country_code_item_layout.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_phone_country_code_item_layout.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_phone_country_code_item_layout.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -1293,19 +1305,19 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-v21_com_accountkit_progress_complete.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-v21/com_accountkit_progress_complete.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-v21/com_accountkit_progress_complete.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_code_fb.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-hdpi-v4/com_accountkit_code_fb.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-hdpi-v4/com_accountkit_code_fb.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_com_accountkit_progress_ring.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/com_accountkit_progress_ring.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/com_accountkit_progress_ring.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_device.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-hdpi-v4/com_accountkit_device.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-hdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
@@ -1401,11 +1413,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_device.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxxhdpi-v4/com_accountkit_device.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxxhdpi-v4/com_accountkit_device.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxxhdpi-v4/com_accountkit_get_call.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxxhdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1437,7 +1449,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_email_login_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_email_login_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -1496,12 +1508,12 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_light.xml.flat",
@@ -1509,7 +1521,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_ic_arrow_back_white.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/ic_arrow_back_white.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/ic_arrow_back_white.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
@@ -1525,7 +1537,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xhdpi-v4/com_accountkit_get_call.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xhdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1557,7 +1569,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxhdpi-v4/com_accountkit_check_sms.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxhdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
@@ -1593,7 +1605,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_sending_code_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_sending_code_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_sending_code_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1637,7 +1649,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_com_accountkit_progress_complete_circle_anim.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/anim/com_accountkit_progress_complete_circle_anim.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/anim/com_accountkit_progress_complete_circle_anim.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1657,7 +1669,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_com_accountkit_email.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/com_accountkit_email.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/com_accountkit_email.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
@@ -1706,6 +1718,10 @@
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/3d0eb9171922366a17dd147429f3b184/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_slider_layout.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/ba7c8721929b87a0d2cfff5aea8fee89/res/layout/slider_layout.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -1841,7 +1857,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_static_content.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_static_content.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_static_content.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
@@ -1849,7 +1865,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_login_text.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_email_login_text.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_email_login_text.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-v21_design_bottom_navigation_item_background.xml.flat",
@@ -1861,11 +1877,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_com_accountkit_progress_complete.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/com_accountkit_progress_complete.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/com_accountkit_progress_complete.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_verified_code_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_verified_code_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_verified_code_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1957,7 +1973,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_title.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_title.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_title.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
@@ -1965,7 +1981,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_get_call.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-mdpi-v4/com_accountkit_get_call.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-mdpi-v4/com_accountkit_get_call.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -2153,7 +2169,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xxxhdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xxxhdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
@@ -2165,7 +2181,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_com_accountkit_pencil.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable/com_accountkit_pencil.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable/com_accountkit_pencil.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_dmax_spots_spot.xml.flat",
@@ -2188,12 +2204,12 @@
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
         "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
@@ -2201,7 +2217,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_com_accountkit_device.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-mdpi-v4/com_accountkit_device.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-mdpi-v4/com_accountkit_device.png"
+    },
+    {
+        "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_indicator_layout.xml.flat",
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/ba7c8721929b87a0d2cfff5aea8fee89/res/layout/indicator_layout.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_focused.xml.flat",
@@ -2229,7 +2249,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_phone_login_top.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_phone_login_top.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_phone_login_top.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -2245,7 +2265,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_com_accountkit_check_sms.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-hdpi-v4/com_accountkit_check_sms.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-hdpi-v4/com_accountkit_check_sms.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -2277,11 +2297,11 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_verifying_code_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_verifying_code_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_verifying_code_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/layout_com_accountkit_fragment_email_verify_center.xml.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/layout/com_accountkit_fragment_email_verify_center.xml"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/layout/com_accountkit_fragment_email_verify_center.xml"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -2325,7 +2345,7 @@
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_accountkit_spinner_triangle.png.flat",
-        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/drawable-xhdpi-v4/com_accountkit_spinner_triangle.png"
+        "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/drawable-xhdpi-v4/com_accountkit_spinner_triangle.png"
     },
     {
         "merged": "/AndroidProject/DrinkShop/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",

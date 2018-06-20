@@ -4,17 +4,6 @@
             "outputFile": "/AndroidProject/DrinkShop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.33.0.aar/47e0c2e95c14e90879eb3668e83bae2d/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,208,353,488",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "203,348,483,628"
-                    }
-                },
-                {
                     "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/119bea970a4fccf95319e9e9618beb0a/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
@@ -31,6 +20,17 @@
                         "endLines": "51",
                         "endColumns": "12",
                         "endOffsets": "3369"
+                    }
+                },
+                {
+                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,208,353,488",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "203,348,483,628"
                     }
                 },
                 {
