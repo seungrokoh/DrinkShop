@@ -165,6 +165,9 @@ public class MainActivity extends AppCompatActivity {
                                                                 //if User already exists, just start new Activity
                                                                 alertDialog.dismiss();
 
+                                                                //Fixd first time crash
+                                                                Common.currentUser = response.body();
+
                                                                 startActivity(new Intent(MainActivity.this, HomeActivity.class));
                                                                 finish();   //Close MainActivity
                                                             }

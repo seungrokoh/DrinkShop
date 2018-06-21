@@ -3,6 +3,8 @@ package example.drinkshop.davidoh;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -21,9 +23,11 @@ import com.daimajia.slider.library.SliderTypes.TextSliderView;
 import java.util.HashMap;
 import java.util.List;
 
+import example.drinkshop.davidoh.Adapter.CategoryAdapter;
 import example.drinkshop.davidoh.Retrofit.IDrinkShopAPI;
 import example.drinkshop.davidoh.Utils.Common;
 import example.drinkshop.davidoh.model.Banner;
+import example.drinkshop.davidoh.model.Category;
 import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
@@ -38,6 +42,8 @@ public class HomeActivity extends AppCompatActivity
 
     IDrinkShopAPI mService;
 
+    RecyclerView list_menu;
+
     //Rxjava
     CompositeDisposable compositeDisposable = new CompositeDisposable();
 
@@ -49,6 +55,10 @@ public class HomeActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
 
         mService = Common.getAPI();
+
+        list_menu = (RecyclerView) findViewById(R.id.list_menu);
+        list_menu.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
+        list_menu.setHasFixedSize(true);
 
         sliderLayout = (SliderLayout) findViewById(R.id.slider);
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
@@ -80,6 +90,26 @@ public class HomeActivity extends AppCompatActivity
         //Get banner
         getBannerImage();
 
+        //Get menu
+        getMenu();
+
+    }
+
+    private void getMenu() {
+        compositeDisposable.add(mService.getMenu()
+                .subscribeOn(Schedulers.io())
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new Consumer<List<Category>>() {
+                    @Override
+                    public void accept(List<Category> categories) throws Exception {
+                        displayMenu(categories);
+                    }
+                }));
+    }
+
+    private void displayMenu(List<Category> categories) {
+        CategoryAdapter adapter = new CategoryAdapter(this, categories);
+        list_menu.setAdapter(adapter);
     }
 
     private void getBannerImage() {

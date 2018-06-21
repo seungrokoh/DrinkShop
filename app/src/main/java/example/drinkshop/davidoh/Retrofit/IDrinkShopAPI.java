@@ -3,6 +3,7 @@ package example.drinkshop.davidoh.Retrofit;
 import java.util.List;
 
 import example.drinkshop.davidoh.model.Banner;
+import example.drinkshop.davidoh.model.Category;
 import example.drinkshop.davidoh.model.CheckUserResponse;
 import example.drinkshop.davidoh.model.User;
 import io.reactivex.Observable;
@@ -30,4 +31,7 @@ public interface IDrinkShopAPI {
 
     @GET("getbanner.php")
     Observable<List<Banner>> getBanners();
+
+    @GET("getmenu.php")
+    Observable<List<Category>> getMenu();
 }
