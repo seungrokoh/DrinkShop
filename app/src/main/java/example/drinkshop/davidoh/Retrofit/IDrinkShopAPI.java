@@ -5,6 +5,7 @@ import java.util.List;
 import example.drinkshop.davidoh.model.Banner;
 import example.drinkshop.davidoh.model.Category;
 import example.drinkshop.davidoh.model.CheckUserResponse;
+import example.drinkshop.davidoh.model.Drink;
 import example.drinkshop.davidoh.model.User;
 import io.reactivex.Observable;
 import retrofit2.Call;
@@ -24,6 +25,10 @@ public interface IDrinkShopAPI {
                                @Field("name") String name,
                                @Field("address") String address,
                                @Field("birthdate") String birthdate);
+
+    @FormUrlEncoded
+    @POST("getdrink.php")
+    Observable<List<Drink>> getDrink(@Field("menuid") String menuID);
 
     @FormUrlEncoded
     @POST("getuser.php")
