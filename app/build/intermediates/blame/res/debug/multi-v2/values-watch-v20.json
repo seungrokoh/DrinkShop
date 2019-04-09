@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/AndroidProject/DrinkShop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/home/davidoh/AndroidStudioProjects/DrinkShop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/fa4db113cba50fb0216531bacad172bd/res/values-watch-v20/values.xml",
+                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/aa73d92ad1fbf9e1ed114631a2a46132/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/805c6a5de5479a65b8b4fb405e5b8a0e/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

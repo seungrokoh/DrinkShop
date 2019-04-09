@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/AndroidProject/DrinkShop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/home/davidoh/AndroidStudioProjects/DrinkShop/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.34.0.aar/5cf53e91e5d24d9e64a3ed7d905ddb95/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2,5,8,11,14",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,215,358,510,652",
-                        "endLines": "4,7,10,13,16",
-                        "endColumns": "12,12,12,12,12",
-                        "endOffsets": "210,353,505,647,795"
-                    },
-                    "to": {
-                        "startLines": "3,6,9,12,15",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "121,281,424,576,718",
-                        "endLines": "5,8,11,14,17",
-                        "endColumns": "12,12,12,12,12",
-                        "endOffsets": "276,419,571,713,861"
-                    }
-                },
-                {
-                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/16dbb75f46cc04998397c34ffa048f38/res/values-v16/values-v16.xml",
+                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/805c6a5de5479a65b8b4fb405e5b8a0e/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e1983532b904f471af934655a30d11f6/res/values-v16/values-v16.xml",
+                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.39.0.aar/dbc1a81f99b6094746d22699f96bf1ed/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,215,358,510,652",
+                        "endLines": "4,7,10,13,16",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "210,353,505,647,795"
+                    },
+                    "to": {
+                        "startLines": "3,6,9,12,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "121,281,424,576,718",
+                        "endLines": "5,8,11,14,17",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "276,419,571,713,861"
+                    }
+                },
+                {
+                    "source": "/home/davidoh/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/889463c6d5fe2a9b2e45000056671dce/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
